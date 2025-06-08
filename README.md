@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👋 Hey Folks!
 
-<!--
-**Sanjaeyss/Sanjaeyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sanjaey Shunmuga Sundaram**, a Data Science enthusiast currently pursuing my **Master’s in Computer Science** at **North Carolina State University**.  
+My mission is to build intelligent systems that turn raw data into impactful solutions — from exploratory data analysis and statistical modeling to machine learning pipelines and predictive analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Data Science & Machine Learning Focus
+
+I specialize in:
+- **EDA & Feature Engineering**: Automating exploratory analysis workflows across diverse datasets  
+- **Machine Learning Models**: Predictive maintenance, classification, regression, anomaly detection  
+- **Tools & Frameworks**: Python, Pandas, Scikit-learn, PyTorch, TensorFlow, SQL, Tableau  
+- **Workflow Automation**: Building reusable data pipelines and reporting utilities
+
+I've applied these in both academic and real-world settings — from reducing power consumption in HVAC systems to detecting chronic kidney disease via blood test parameters.
+
+---
+
+### 💼 Notable Experience
+
+**Machine Learning / IoT Intern – Thermelgy (Energy ETA)**  
+*Aug 2023 – Jan 2024*  
+- Built ML models for HVAC efficiency and IoT predictive maintenance  
+- Automated EDA using Python templates → reduced report generation time by **20%**  
+- Worked with ESP32 devices for real-time sensor data monitoring  
+- Built a remote dashboard to access and reset IoT gateways
+
+**Research Intern – RB-DSAI, IIT Madras**  
+*Jan 2023 – July 2024*  
+- Developed **Reinforcement Learning models** to automate HVAC systems  
+- Integrated sensor data from IoT gateways for smart control of energy usage  
+- Conducted research reviews and contributed to algorithm design
+
+---
+
+### 📊 Key Projects
+
+**📱 Track-Ur-Tab**  
+*A full-stack expense analytics app built using React Native + Node.js + MongoDB*  
+- Led the **frontend UI/UX** development  
+- Included budgeting, goal tracking, and shared expense balancing  
+
+**🧠 CKD Prediction App (IBM – Applied Data Science)**  
+- Built a machine learning pipeline to detect **chronic kidney disease**  
+- Designed the frontend interface and implemented data pre-processing
+
+**📄 Bank Check Data Extraction (AWS Textract)**  
+- Built a tool to read and extract key fields from scanned bank checks  
+- Stored results in structured formats like CSV/Excel
+
+---
+
+### 🧰 Skills Summary
+
+**Languages**: Python, SQL, Java, C++, JavaScript  
+**Frameworks**: Pandas, Scikit-learn, PyTorch, TensorFlow, React.js, Node.js  
+**Tools**: Jupyter, GitHub, Tableau, MongoDB, MySQL, VS Code  
+
+---
+
+### 🎙️ Leadership & Engagement
+
+- 🧑‍🏫 **Guest Speaker** – Led a Data Analytics workshop at SVCE  
+- 🧠 **Mentor** – hackML’22, helping students apply ML to real-world problems  
+- 💼 **Team Lead** – IBM Applied Data Science capstone project  
+
+---
+
+### 📫 Let's Connect
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/sanjaey-sundaram)  
+- [💻 GitHub](https://github.com/Sanjaeyss)  
+- 📧 sshunmu@ncsu.edu  
+
+---
+
+### 📊 GitHub Stats (Optional)
+
+```md
+![Sanjaey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjaeyss&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaeyss&layout=compact)

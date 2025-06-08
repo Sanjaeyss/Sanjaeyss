@@ -8,10 +8,10 @@ My mission is to build intelligent systems that turn raw data into impactful sol
 ### 🔍 Data Science & Machine Learning Focus
 
 I specialize in:
-- **EDA & Feature Engineering**: Automating exploratory analysis workflows across diverse datasets  
-- **Machine Learning Models**: Predictive maintenance, classification, regression, anomaly detection  
+- **EDA & Feature Engineering** 
+- **Machine Learning Models**
 - **Tools & Frameworks**: Python, Pandas, Scikit-learn, PyTorch, TensorFlow, SQL, Tableau  
-- **Workflow Automation**: Building reusable data pipelines and reporting utilities
+- **Workflow Automation**
 
 I've applied these in both academic and real-world settings — from reducing power consumption in HVAC systems to detecting chronic kidney disease via blood test parameters.
 
@@ -61,8 +61,9 @@ I've applied these in both academic and real-world settings — from reducing po
 
 ### 🎙️ Leadership & Engagement
 
-- 🧑‍🏫 **Guest Speaker** – Led a Data Analytics workshop at SVCE  
-- 🧠 **Mentor** – hackML’22, helping students apply ML to real-world problems  
+- 🧑‍🏫 **Guest Speaker** – Led a Data Analytics workshop at Sri Venkateswara College of Engineering  
+- 🧠 **Mentor** – hackML’22, helping students apply ML to real-world problems
+- 👨‍💻 **Executive Member – Cyberhub SVCE** – Organised and Participated in cybersecurity initiatives and events at my undergraduate college  
 - 💼 **Team Lead** – IBM Applied Data Science capstone project  
 
 ---
@@ -71,12 +72,12 @@ I've applied these in both academic and real-world settings — from reducing po
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/sanjaey-sundaram)  
 - [💻 GitHub](https://github.com/Sanjaeyss)  
-- 📧 sshunmu@ncsu.edu  
+- 📧 sanjaeyss@gmail.com sshunmu@ncsu.edu  
 
 ---
 
-### 📊 GitHub Stats (Optional)
+### 📊 GitHub Stats
 
-```md
+
 ![Sanjaey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjaeyss&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaeyss&layout=compact)

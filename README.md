@@ -26,7 +26,7 @@ I've applied these in both academic and real-world settings — from reducing po
 - Worked with ESP32 devices for real-time sensor data monitoring  
 - Built a remote dashboard to access and reset IoT gateways
 
-**Research Intern – RB-DSAI, IIT Madras**  
+**Research Intern – RBCDSAI, IIT Madras**  
 *Jan 2023 – July 2024*  
 - Developed **Reinforcement Learning models** to automate HVAC systems  
 - Integrated sensor data from IoT gateways for smart control of energy usage  
